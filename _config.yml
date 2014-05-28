@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://tf8615.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 笨男孩博客
+subtitle: 这是我的一个存档空间.
+author: XiaoFei
 simple_search: https://www.google.com/search
-description:
+description: PHP/HTML/CSS技术分享
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
