@@ -4,7 +4,7 @@
   <title><![CDATA[笨男孩博客]]></title>
   <link href="http://tf8615.github.io/atom.xml" rel="self"/>
   <link href="http://tf8615.github.io/"/>
-  <updated>2014-05-28T12:38:50+08:00</updated>
+  <updated>2014-05-28T13:23:07+08:00</updated>
   <id>http://tf8615.github.io/</id>
   <author>
     <name><![CDATA[XiaoFei]]></name>
@@ -12,5 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇Octopress博文]]></title>
+    <link href="http://tf8615.github.io/blog/2014/05/28/my-first-octpress-blog/"/>
+    <updated>2014-05-28T12:55:56+08:00</updated>
+    <id>http://tf8615.github.io/blog/2014/05/28/my-first-octpress-blog</id>
+    <content type="html"><![CDATA[<p>我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文</p>
+
+<!-- more -->
+
+
+<p>我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文
+我的第一篇Octopress博文</p>
+]]></content>
+  </entry>
   
 </feed>
